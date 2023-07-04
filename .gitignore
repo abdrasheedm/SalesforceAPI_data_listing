@@ -1,0 +1,8 @@
+# ignore consumer credentials
+
+access_token.txt
+consumer_key.txt
+consumer_secret.txt
+refresh_token.txt
+
+salesforce_api/.env
